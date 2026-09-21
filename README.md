@@ -11,9 +11,15 @@ The Online Cinema Seat Booking System is a Java-based application designed to au
 
 5. OBJECTIVE:
 .To automate the cinema ticket booking process.
+
 .To display seat availability in real time.
+
 .To allow users to book and cancel seats efficiently.
+
 .To prevent duplicate seat bookings.
+
 .To maintain accurate booking records.
+
 .To improve customer convenience and theatre management.
+
 .To apply Java programming concepts in a real-world application.
