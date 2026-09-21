@@ -2,7 +2,6 @@
 1. Project Title : Cinema Seat Booking System
    
 2. Team Members : Paruchuri Pranavi - 2620030409
-   
                   K. Lakshmi Harshitha - 2620030091
    
 3. Supervisor: Mr.Rakesh
