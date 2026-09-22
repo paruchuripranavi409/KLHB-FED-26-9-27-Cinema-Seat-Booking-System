@@ -85,6 +85,7 @@ Admin Functions – Allow the administrator to manage movies, shows, seats, and 
 
 Non-Functional Requirements:
 
+
 User-friendly: The system should be simple to operate.
 
 Reliable: It should prevent the same seat from being booked twice.
