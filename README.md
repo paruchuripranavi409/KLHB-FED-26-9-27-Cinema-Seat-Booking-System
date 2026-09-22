@@ -28,7 +28,7 @@ The Online Cinema Seat Booking System is a Java-based application designed to au
    
 Functional Requirements:
 
-. Hardware Requirements:
+- Hardware Requirements:
 
 Processor: Intel Core i3 or equivalent
 
@@ -40,7 +40,7 @@ Keyboard and Mouse
 
 Monitor
 
-. Software Requirements:
+- Software Requirements:
    
 Operating System: Windows / Linux / macOS
 
@@ -56,7 +56,7 @@ JDBC: For connecting Java with MySQL
 
 MySQL Connector/J: Required for JDBC connectivity
 
-. Functional Requirements:
+- Functional Requirements:
 
 The system should provide the following features:
 
@@ -83,7 +83,7 @@ Booking Records – Store booking information for future reference.
 Admin Functions – Allow the administrator to manage movies, shows, seats, and bookings.
 
 
-Non-Functional Requirements:
+- Non-Functional Requirements:
 
 
 User-friendly: The system should be simple to operate.
